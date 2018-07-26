@@ -1,0 +1,16 @@
+plotvector1=1:9
+plotvector2=9:1
+plot(plotvector1, plotvector2)
+x11()
+plot(plotvector1, plotvector2)
+x11()
+getwd()
+setwd()
+getwd()
+setwd("~/Desktop/R")
+getwd()
+plotvector1=1:9
+plot(plotvector1, plotvector1)
+plotvector2=9:1
+plot(plotvector1, plotvector2)
+x11()
